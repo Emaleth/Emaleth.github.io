@@ -19,8 +19,8 @@ permalink: /donations
 <div class="FlexWrap">
 
   {% include card.html icon="/assets/img/Odysee.svg" name="Odysee" link="https://odysee.com/$/invite/@Emaleth:c" %}
+  {% include card.html icon="/assets/img/logo_splinterlands.svg" name="Splinterlands" link="https://splinterlands.com?ref=emaleth" %}
   {% include card.html icon="/assets/img/Publish0x.png" name="Publish0x" link="https://www.publish0x.com?a=WPe98lkDdL" %}
   {% include card.html icon="/assets/img/Lolli.png" name="Lolli" link="https://www.lolli.com/share/adQdVjWswV" %}
-
 
 </div>
