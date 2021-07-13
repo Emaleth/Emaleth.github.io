@@ -31,23 +31,18 @@ feed_show_tags: true
 
 keywords: "game, gamedev, godot, github, Emaleth, entertainment"
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#3c3836"
+navbar-text-col: "#ebdbb2"
+navbar-border-col: "#928374"
+page-col: "#282828"
+text-col: "#fbf1c7"
+link-col: "#83a598"
+hover-col: "#d3869b"
+footer-col: "#3c3836"
+footer-text-col: "#ebdbb2"
+footer-link-col: "#8ec07c"
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
-
-# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#3c3836"
 
 
 date_format: "%H:%M %d-%m-%Y"
