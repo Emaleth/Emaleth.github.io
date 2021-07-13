@@ -4,15 +4,11 @@ title: "Emaleth's Playground"
 author: "Emaleth"
 navbar-links:
   Home: "/"
-  Games:
-   - Beleth: "beleth"
-   - Valefar: "valefar"
   Blog: "blog"
-  Donations: "donations"
   About: "about"
   Contact: "contact"
 
-avatar: "/assets/img/Red_Hood_Skull.jpg"
+avatar: "/assets/Red_Hood_Skull_50%.jpg"
 round-avatar: true
 social-network-links:
   github: "Emaleth"
@@ -33,7 +29,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
 
-keywords: "game, gamedev, godot, github, Emaleth, beleth, valefar, entertainment"
+keywords: "game, gamedev, godot, github, Emaleth, entertainment"
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
@@ -53,15 +49,6 @@ footer-link-col: "#404040"
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
 
-site-css:
-  - "/assets/css/Card.css"
-  - "/assets/css/FlipCard.css"
-  - "/assets/css/FlexWrap.css"
-  - "/assets/css/MotD.css"
-  - "/assets/css/Slideshow.css"
-
-# site-js:
-#   - "/assets/js/slideshow.js"
 
 date_format: "%H:%M %d-%m-%Y"
 timezone: "Europe/Rome"
@@ -78,7 +65,6 @@ defaults:
       path: ""
     values:
       layout: "page"
-      head-extra: "favicon.html"
 
   - # Posts
     scope:
@@ -94,8 +80,8 @@ defaults:
     scope:
       path: ""
       type: "pages"
-    values:
-      before-content: "motd.html"
+
+
       
 exclude:
   - "CNAME"
@@ -104,7 +90,6 @@ exclude:
 
 include:
   - "_pages"
-  - "_games"
 
 plugins:
   - "jekyll-remote-theme"
