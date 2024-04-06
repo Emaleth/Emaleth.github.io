@@ -2,6 +2,7 @@ baseURL: "https://emaleth.com/"
 languageCode: en-us
 title: "Hugo dead simple example"
 enableGitInfo: true
+theme: "hugo-dead-simple"
 menu:
   main:
     - name: "<u>H</u>ome"
@@ -32,6 +33,3 @@ outputs:
   page:
     - html
 
-module:
-  imports:
-    - path: github.com/barklan/hugo-dead-simple
