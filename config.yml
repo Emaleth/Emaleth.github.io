@@ -1,8 +1,9 @@
 baseURL: "https://emaleth.com/"
 languageCode: en-us
 title: "Hugo dead simple example"
-enableGitInfo: true
 theme: "hugo-dead-simple"
+enableGitInfo: true
+
 menu:
   main:
     - name: "<u>H</u>ome"
